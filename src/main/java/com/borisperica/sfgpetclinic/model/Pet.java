@@ -1,7 +1,11 @@
 package com.borisperica.sfgpetclinic.model;
 
 import java.time.LocalDate;
-
+/**
+ * 
+ * @author perica
+ *
+ */
 public class Pet {
 	
 	private PetType petType;
