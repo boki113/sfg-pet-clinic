@@ -1,0 +1,5 @@
+org/pet/clinic/data/model/Owner.class
+org/pet/clinic/data/model/PetType.class
+org/pet/clinic/data/model/Person.class
+org/pet/clinic/data/model/Vet.class
+org/pet/clinic/data/model/Pet.class
