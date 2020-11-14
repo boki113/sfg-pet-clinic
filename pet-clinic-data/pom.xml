@@ -10,6 +10,11 @@
   <artifactId>pet-clinic-data</artifactId>
   <name>pet-clinic-data</name>
   <url>http://maven.apache.org</url>
+  
+  <properties>
+  	<spring-boot.repackage.skip>true</spring-boot.repackage.skip>
+  </properties>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -63,7 +68,4 @@
 		</plugin>
 	</plugins>
   </build>
-  <properties>
-  	<spring-boot.repackage.skip>true</spring-boot.repackage.skip>
-  </properties>
 </project>
