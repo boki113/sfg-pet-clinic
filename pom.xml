@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.borisperica</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>1</version>
+	<version>2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>sfg-pet-clinic</name>
 	<description>SFG Pet Clinic Demoapplication</description>
@@ -40,7 +40,7 @@
 	
 	<scm>
 		<developerConnection>scm:git:https://github.com/boki113/sfg-pet-clinic.git</developerConnection>
-	  <tag>sfg-pet-clinic-1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<modules>
