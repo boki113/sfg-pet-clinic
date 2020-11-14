@@ -5,11 +5,11 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.3.4.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.borisperica</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<packaging>pom</packaging>
 	<name>sfg-pet-clinic</name>
 	<description>SFG Pet Clinic Demoapplication</description>
@@ -40,7 +40,8 @@
 	
 	<scm>
 		<developerConnection>scm:git:https://github.com/boki113/sfg-pet-clinic.git</developerConnection>
-	</scm>
+	  <tag>sfg-pet-clinic-1</tag>
+  </scm>
 
 	<modules>
 		<module>pet-clinic-data</module>
