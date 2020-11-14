@@ -6,7 +6,12 @@ import java.time.LocalDate;
  * @author perica
  *
  */
-public class Pet {
+public class Pet extends BaseEntity {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 4374749382765435259L;
 	
 	private PetType petType;
 	private Owner owner;
