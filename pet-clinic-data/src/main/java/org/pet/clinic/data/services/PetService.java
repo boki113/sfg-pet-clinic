@@ -1,19 +1,11 @@
 package org.pet.clinic.data.services;
+
+import org.pet.clinic.data.model.Pet;
 /**
  * 
  * @author perica
  *
  */
-
-import java.util.Set;
-
-import org.pet.clinic.data.model.Pet;
-
-public interface PetService {
+public interface PetService extends CrudService<Pet, Long> {
 	
-	Pet findById(Long id);
-	
-	Pet save(Pet pet);
-	
-	Set<Pet> findAll();
 }
