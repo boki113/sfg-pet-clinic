@@ -1,7 +1,5 @@
 package org.pet.clinic.data.services;
 
-import java.util.Set;
-
 import org.pet.clinic.data.model.Owner;
 
 /**
