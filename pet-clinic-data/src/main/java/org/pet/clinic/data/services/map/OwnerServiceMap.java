@@ -4,8 +4,9 @@ import java.util.Set;
 
 import org.pet.clinic.data.model.Owner;
 import org.pet.clinic.data.services.CrudService;
+import org.pet.clinic.data.services.OwnerService;
 
-public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements CrudService<Owner, Long> {
+public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService {
 
 	@Override
 	public Owner save(Long id, Owner entity) {
@@ -31,6 +32,11 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
 	@Override
 	public void delete(Owner entity) {
 		super.delete(entity);
+	}
+
+	@Override
+	public Owner findByLastName(String lastName) {
+		return null;
 	}
 
 }
