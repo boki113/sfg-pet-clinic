@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.pet.clinic.data.model","l":"Owner"},{"p":"org.pet.clinic.data.model","l":"Person"},{"p":"org.pet.clinic.data.model","l":"Pet"},{"p":"org.pet.clinic.data.model","l":"PetType"},{"p":"org.pet.clinic.data.model","l":"Vet"}]

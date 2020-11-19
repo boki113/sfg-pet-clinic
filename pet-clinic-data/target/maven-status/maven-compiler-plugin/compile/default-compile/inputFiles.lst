@@ -1,5 +1,14 @@
 /Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/model/Owner.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/map/VetServiceMap.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/CrudService.java
 /Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/model/PetType.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/map/AbstractMapService.java
 /Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/model/Pet.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/map/OwnerServiceMap.java
 /Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/model/Person.java
 /Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/model/Vet.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/model/BaseEntity.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/map/PetServiceMap.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/PetService.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/OwnerService.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-data/src/main/java/org/pet/clinic/data/services/VetService.java

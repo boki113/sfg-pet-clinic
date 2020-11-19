@@ -1,1 +1,5 @@
 /Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-web/src/main/java/org/pet/clinic/web/SfgPetClinicApplication.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-web/src/main/java/org/pet/clinic/web/controllers/OwnerController.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-web/src/main/java/org/pet/clinic/web/controllers/IndexController.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-web/src/main/java/org/pet/clinic/web/bootstrap/DataLoader.java
+/Users/perica/development/springguru/sfg-pet-clinic/pet-clinic-web/src/main/java/org/pet/clinic/web/controllers/VetController.java

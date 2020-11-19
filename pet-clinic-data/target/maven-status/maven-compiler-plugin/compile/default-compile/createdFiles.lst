@@ -1,5 +1,14 @@
+org/pet/clinic/data/services/OwnerService.class
+org/pet/clinic/data/services/CrudService.class
+org/pet/clinic/data/services/VetService.class
+org/pet/clinic/data/services/map/PetServiceMap.class
 org/pet/clinic/data/model/Owner.class
 org/pet/clinic/data/model/PetType.class
 org/pet/clinic/data/model/Person.class
 org/pet/clinic/data/model/Vet.class
 org/pet/clinic/data/model/Pet.class
+org/pet/clinic/data/services/map/VetServiceMap.class
+org/pet/clinic/data/services/map/AbstractMapService.class
+org/pet/clinic/data/services/map/OwnerServiceMap.class
+org/pet/clinic/data/model/BaseEntity.class
+org/pet/clinic/data/services/PetService.class

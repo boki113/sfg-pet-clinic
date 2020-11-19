@@ -4,8 +4,11 @@ import java.util.Set;
 
 import org.pet.clinic.data.model.Pet;
 import org.pet.clinic.data.services.CrudService;
+import org.pet.clinic.data.services.PetService;
+import org.springframework.stereotype.Service;
 
-public class PetServiceMap extends AbstractMapService<Pet,Long> implements CrudService<Pet, Long>{
+@Service
+public class PetServiceMap extends AbstractMapService<Pet,Long> implements PetService{
 
 	@Override
 	public Set<Pet> findAll() {
