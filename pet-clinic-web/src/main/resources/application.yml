@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active:
+    - de
+---
+spring:
+  profiles: de
+petclinic:
+  jms:
+    username: JMS Username
+    password: somepass
+    url: SomeUrl

@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
 public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService {
 
 	@Override
-	public Owner save(Long id, Owner entity) {
-		return super.save(id, entity);
+	public Owner save(Owner entity) {
+		return super.save(entity);
 	}
 
 	@Override
