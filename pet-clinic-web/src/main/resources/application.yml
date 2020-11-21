@@ -2,11 +2,8 @@ spring:
   profiles:
     active:
     - de
+  messages:
+    basename: "messages/messages"
 ---
 spring:
   profiles: de
-petclinic:
-  jms:
-    username: JMS Username
-    password: somepass
-    url: SomeUrl
