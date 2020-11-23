@@ -2,9 +2,6 @@ package org.pet.clinic.data.model;
 
 public class PetType extends BaseEntity {
 	
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 7878422027851929557L;
 	
 	private String name;
