@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
  *
  */
 @Controller
-@RequestMapping("vets")
 public class VetController {
 	
 	private final VetService vetService;
@@ -21,7 +20,7 @@ public class VetController {
 	}
 
 
-	@RequestMapping({"","/", "/index", "/index.html"})
+	@RequestMapping({"/vets", "/vets/index", "vets/index.html", "/vets.html"})
 	public String listVets(Model model) {
 		
 		model.addAttribute("vets", vetService.findAll());
